@@ -10,13 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cybercoder.naj | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
-[<img align="left" alt="61 Keys To Music" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
-[<img align="left" alt="cybercoder.naj | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" alt="cybercoder.naj | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cybercoder.naj | Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
-
-<br />
+[![cybercoder-naj | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]<br />
+[![cybercoder-naj | YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]<br />
+[![cybercoder-naj | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]<br />
+[![cybercoder-naj | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][instagram]<br />
+[![cybercoder-naj | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]<br />
+[![cybercoder-naj | Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]<br />
 
 ### Languages and Tools:
 
@@ -62,3 +61,4 @@
 [instagram]: https://www.instagram.com/cybercoder.naj
 [linkedin]: https://www.linkedin.com/in/nishant-aanjaney-jalan-3b7659191/
 [telegram]: https://t.me/cybercoder_naj
+[stackoverflow]: https://stackoverflow.com/users/11292068/nishant-jalan
