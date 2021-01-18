@@ -1,6 +1,6 @@
 ### Hello, World! My name is Nishant - aka [cybercoder-naj][github] 👋
 
-## I'm a Student, Musician, Developer, and Teacher!
+## 👌 I'm a Student, Musician, Developer, and Teacher!
 - I'm currently learning Web Applications using Django from CS50W at HarvardX.
 - I'm studying day and night for my leaving examinations.
 - I've developed many Android applications, some of which are on the Play Store.
@@ -8,7 +8,7 @@
 - I'm an [Oracle Certified Java Professional][badge].
 - I teach Java on Discord via [Code The Universe][ctu].
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [![cybercoder-naj | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 [![61 Keys to Music | YouTube](https://img.shields.io/badge/61%20Keys%20To%20Music%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
@@ -20,7 +20,7 @@
 [![Nishant | Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][spotify]
 [![Nishant | Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)][playstore]
 
-### Languages and Tools:
+### 🧠 Languages and Tools:
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]()
@@ -48,7 +48,7 @@
 
 ---
 
-### Recent Activity
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 ---
