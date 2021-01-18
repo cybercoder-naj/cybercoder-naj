@@ -42,11 +42,15 @@
 [![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)]()
 
 <br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple)][github]
 
 
+---
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 ### 📺 YouTube Videos
