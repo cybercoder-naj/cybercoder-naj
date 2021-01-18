@@ -37,8 +37,12 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple)][github]
+<details>
+    <summary>:zap: Most Used Languages</summary>
 
+    <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple" />
+
+</details>
 
 ---
 
