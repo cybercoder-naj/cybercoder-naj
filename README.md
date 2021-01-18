@@ -10,29 +10,36 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cybercoder.naj | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
-[<img align="left" alt="61 Keys To Music" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
-[<img align="left" alt="cybercoder.naj | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" alt="cybercoder.naj | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cybercoder.naj | Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
-
-<br />
+[![cybercoder-naj | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![61 Keys to Music | YouTube](https://img.shields.io/badge/61%20Keys%20To%20Music%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
+[![cybercoder-naj | Instagram](https://img.shields.io/badge/cybercoder.naj%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+[![cybercoder-naj | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][instagram]
+[![cybercoder-naj | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
+[![cybercoder-naj | Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]<br />
+[![cybercoder-naj | HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
+[![Nishant | Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+[![Nishant | Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)][playstore]
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />]()
-[<img align="left" alt="Kotlin" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />]()
-[<img align="left" alt="Android" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />]()
-[<img align="left" alt="Firebase" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]()
-[<img align="left" alt="HTML" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Sass" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
-[<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="Django" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" />]()
-[<img align="left" alt="Git" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />]()
-[<img align="left" alt="Adobe Xd" width="24px" src="https://img.icons8.com/ios/452/adobe-xd.png" />]()
-[<img align="left" alt="Adobe Premiere Pro CC" width="24px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-premiere-pro-599419.png" />]()
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Android%20-green.svg?&style=for-the-badge&logo=Android&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)]()
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]()
+[![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)]()
+[![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)]()
+[![Adobe Xd](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)]()
+[![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro%20-%23330D3E.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)]()
+[![Travis CI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)]()
+[![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)]()
 
 <br />
 <br />
@@ -62,3 +69,7 @@
 [instagram]: https://www.instagram.com/cybercoder.naj
 [linkedin]: https://www.linkedin.com/in/nishant-aanjaney-jalan-3b7659191/
 [telegram]: https://t.me/cybercoder_naj
+[stackoverflow]: https://stackoverflow.com/users/11292068/nishant-jalan
+[hackerrank]: https://www.hackerrank.com/cybercoder_nish1
+[playstore]: https://play.google.com/store/apps/developer?id=Nishant+Aanjaney+Jalan
+[spotify]: https://open.spotify.com/user/kiitk00t2usqxle7067h2y1di?si=MbuKY0lkSJmQSf2NaLSr8g
