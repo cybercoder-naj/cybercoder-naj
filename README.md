@@ -43,6 +43,11 @@
 
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Office (TV Program) Theme Song | Composed by Jay Ferguson | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=dskeHG3moIc)
+- [This is Berk | John Powell | From "How To Train Your Dragon" | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=NA9KN1Fn5ok)
+- [It's My Life | Bon Jovi | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=nmni4QTFcmA)
+- [Portals | Alan Silvestri | From "Avengers: Endgame" | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=QanbFx1kLrA)
+- [Hey There Delilah | Plain White T’s | Cover By 61 Keys To Music](https://www.youtube.com/watch?v=Cmoq8jIPA7g)
 <!-- YOUTUBE:END -->
 
 ---
