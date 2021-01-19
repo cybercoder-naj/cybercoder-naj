@@ -1,12 +1,14 @@
 ### Hello, World! My name is Nishant - aka [cybercoder-naj][github] 👋
 
+[![Banner](banner.png)]()
+
 ## 👌 I'm a Student, Musician, Developer, and Teacher!
-- I'm currently learning Web Applications using Django from CS50W at HarvardX.
-- I'm studying day and night for my leaving examinations.
-- I've developed many Android applications, some of which are on the Play Store.
-- I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
-- I'm an [Oracle Certified Java Professional][badge].
-- I teach Java on Discord via [Code The Universe][ctu].
+- 🤔 I'm currently learning Web Applications using Django from CS50W at HarvardX.
+- 🏫 I'm studying day and night for my leaving examinations.
+- 😎 I've developed many Android applications, some of which are on the Play Store.
+- 🎶I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
+- 🎓 I'm an [Oracle Certified Java Professional][badge].
+- 👨‍🏫 I teach Java on Discord via [Code The Universe][ctu].
 
 ### 🤝 Connect with me:
 
