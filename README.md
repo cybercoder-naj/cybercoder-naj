@@ -56,9 +56,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/cybercoder-naj/pull/1) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
-2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/cybercoder-naj/pull/1) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
-3. 💪 Opened PR [#1](https://github.com/harshitasaraf/e-commerce-website/pull/1) in [harshitasaraf/e-commerce-website](https://github.com/harshitasaraf/e-commerce-website)
+1. 💪 Opened PR [#1](https://github.com/sohamsshah/JavaONLY/pull/1) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
+2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/cybercoder-naj/pull/1) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/cybercoder-naj/pull/1) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
 <!--END_SECTION:activity-->
 ---
 
