@@ -56,9 +56,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/sohamsshah/JavaONLY/pull/1) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
-2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/cybercoder-naj/pull/1) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
-3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/cybercoder-naj/pull/1) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+1. 🗣 Commented on [#2](https://github.com/sohamsshah/JavaONLY/issues/2) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
+2. 🗣 Commented on [#2](https://github.com/sohamsshah/JavaONLY/issues/2) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
+3. 💪 Opened PR [#2](https://github.com/sohamsshah/JavaONLY/pull/2) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
 <!--END_SECTION:activity-->
 ---
 
