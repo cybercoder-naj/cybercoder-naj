@@ -60,9 +60,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/Ileriayo/markdown-badges/pull/94) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. ❗️ Opened issue [#2](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/2) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
-3. 🗣 Commented on [#2](https://github.com/sohamsshah/JavaONLY/issues/2) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
+1. 🗣 Commented on [#3](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/3) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
+2. 💪 Opened PR [#94](https://github.com/Ileriayo/markdown-badges/pull/94) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. ❗️ Opened issue [#2](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/2) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
 <!--END_SECTION:activity-->
 ---
 
