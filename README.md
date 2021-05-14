@@ -63,9 +63,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/2) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
-2. 🗣 Commented on [#2](https://github.com/sohamsshah/JavaONLY/issues/2) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
-3. 🗣 Commented on [#2](https://github.com/sohamsshah/JavaONLY/issues/2) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
+1. 🗣 Commented on [#3](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/3) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
+2. 🗣 Commented on [#3](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/3) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
+3. 💪 Opened PR [#94](https://github.com/Ileriayo/markdown-badges/pull/94) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 ---
 
