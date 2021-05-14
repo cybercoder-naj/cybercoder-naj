@@ -59,6 +59,9 @@
 ---
 
 ### ⚡ Recent Activity
+
+[![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#2](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/2) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
 2. 🗣 Commented on [#2](https://github.com/sohamsshah/JavaONLY/issues/2) in [sohamsshah/JavaONLY](https://github.com/sohamsshah/JavaONLY)
@@ -67,6 +70,9 @@
 ---
 
 ### 📺 YouTube Videos
+
+[![YouTube Videos](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/youtube-workflow.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/youtube-workflow.yml)
+
 <!-- YOUTUBE:START -->
 - [The Office (TV Program) Theme Song | Composed by Jay Ferguson | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=dskeHG3moIc)
 - [This is Berk | John Powell | From "How To Train Your Dragon" | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=NA9KN1Fn5ok)
