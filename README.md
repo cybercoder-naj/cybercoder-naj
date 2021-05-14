@@ -63,9 +63,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/3) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
+1. ❗️ Opened issue [#65](https://github.com/gautamkrishnar/blog-post-workflow/issues/65) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 2. 🗣 Commented on [#3](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/3) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
-3. 💪 Opened PR [#94](https://github.com/Ileriayo/markdown-badges/pull/94) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. 🗣 Commented on [#3](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/3) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
 <!--END_SECTION:activity-->
 ---
 
