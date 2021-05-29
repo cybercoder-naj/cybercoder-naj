@@ -64,9 +64,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/codesONLY/JavaScriptONLY/pull/23) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
-2. ❗️ Opened issue [#65](https://github.com/gautamkrishnar/blog-post-workflow/issues/65) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-3. 🗣 Commented on [#3](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples/issues/3) in [MindorksOpenSource/Jetpack-Compose-Android-Examples](https://github.com/MindorksOpenSource/Jetpack-Compose-Android-Examples)
+1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
+2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
+3. 💪 Opened PR [#23](https://github.com/codesONLY/JavaScriptONLY/pull/23) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
 <!--END_SECTION:activity-->
 ---
 
