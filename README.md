@@ -53,7 +53,10 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Adobe Xd](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro%20-%23330D3E.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
-![Travis CI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white) \
+![Travis CI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple)][github]
 
 ---
