@@ -64,9 +64,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
-2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
-3. 💪 Opened PR [#23](https://github.com/codesONLY/JavaScriptONLY/pull/23) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
+1. ❗️ Opened issue [#12](https://github.com/iFanie/AccordionRecycler/issues/12) in [iFanie/AccordionRecycler](https://github.com/iFanie/AccordionRecycler)
+2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
+3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
 <!--END_SECTION:activity-->
 ---
 
