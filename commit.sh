@@ -5,5 +5,4 @@ git add .
 git commit -m "Updated README.md"
 
 # Pushing changes
-
 git push origin master
