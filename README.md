@@ -64,9 +64,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#119](https://github.com/Ileriayo/markdown-badges/issues/119) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 🗣 Commented on [#49](https://github.com/Ileriayo/markdown-badges/issues/49) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-3. ❗️ Opened issue [#12](https://github.com/iFanie/AccordionRecycler/issues/12) in [iFanie/AccordionRecycler](https://github.com/iFanie/AccordionRecycler)
+1. 💪 Opened PR [#121](https://github.com/Ileriayo/markdown-badges/pull/121) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. ❌ Closed PR [#120](https://github.com/Ileriayo/markdown-badges/pull/120) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. 💪 Opened PR [#120](https://github.com/Ileriayo/markdown-badges/pull/120) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 
 ---
