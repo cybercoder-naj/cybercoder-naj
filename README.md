@@ -64,9 +64,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/iFanie/AccordionRecycler/issues/12) in [iFanie/AccordionRecycler](https://github.com/iFanie/AccordionRecycler)
-2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
-3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/chess-with-friends/pull/1) in [cybercoder-naj/chess-with-friends](https://github.com/cybercoder-naj/chess-with-friends)
+1. ❗️ Opened issue [#119](https://github.com/Ileriayo/markdown-badges/issues/119) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. 🗣 Commented on [#49](https://github.com/Ileriayo/markdown-badges/issues/49) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. ❗️ Opened issue [#12](https://github.com/iFanie/AccordionRecycler/issues/12) in [iFanie/AccordionRecycler](https://github.com/iFanie/AccordionRecycler)
 <!--END_SECTION:activity-->
 
 ---
