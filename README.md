@@ -64,9 +64,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/Ileriayo/markdown-badges/pull/121) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. ❌ Closed PR [#120](https://github.com/Ileriayo/markdown-badges/pull/120) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-3. 💪 Opened PR [#120](https://github.com/Ileriayo/markdown-badges/pull/120) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. ❗️ Opened issue [#7093](https://github.com/microsoft/WSL/issues/7093) in [microsoft/WSL](https://github.com/microsoft/WSL)
+2. 💪 Opened PR [#121](https://github.com/Ileriayo/markdown-badges/pull/121) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. ❌ Closed PR [#120](https://github.com/Ileriayo/markdown-badges/pull/120) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 
 ---
