@@ -65,9 +65,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/Ileriayo/markdown-badges/issues/136) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 💪 Opened PR [#136](https://github.com/Ileriayo/markdown-badges/pull/136) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-3. 🗣 Commented on [#121](https://github.com/Ileriayo/markdown-badges/issues/121) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. ❗️ Opened issue [#177](https://github.com/Ileriayo/markdown-badges/issues/177) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. 🗣 Commented on [#136](https://github.com/Ileriayo/markdown-badges/issues/136) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. 💪 Opened PR [#136](https://github.com/Ileriayo/markdown-badges/pull/136) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 
 ---
