@@ -4,10 +4,10 @@
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
-- 💼 Android Developer Intern at a start up company.
+- 💼 Junior Android Developer at a company.
 - 😎 I've developed many Android applications, some of which are on the Play Store.
 - 🎓 I'm an [Oracle Certified Java Professional][badge].
-- 🌐 Learning how to develop Full Stack web applications with JavaScript/Typescript.
+- 🌐 Full Stack web applications with JavaScript/Typescript.
 - 👨‍🏫 I teach Java via online classes.
 - 🎶 I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
 
@@ -35,6 +35,7 @@
 ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
