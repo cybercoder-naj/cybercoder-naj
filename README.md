@@ -66,9 +66,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com/codesONLY/JavaScriptONLY/issues/43) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
-2. 🗣 Commented on [#33](https://github.com/codesONLY/JavaScriptONLY/issues/33) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
-3. 💪 Opened PR [#42](https://github.com/codesONLY/JavaScriptONLY/pull/42) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
+1. 💪 Opened PR [#44](https://github.com/codesONLY/JavaScriptONLY/pull/44) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
+2. ❗️ Opened issue [#43](https://github.com/codesONLY/JavaScriptONLY/issues/43) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
+3. 🗣 Commented on [#33](https://github.com/codesONLY/JavaScriptONLY/issues/33) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
 <!--END_SECTION:activity-->
 
 ---
