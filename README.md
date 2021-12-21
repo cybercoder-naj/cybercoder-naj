@@ -66,9 +66,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/a914-gowtham/compose-ratingbar/issues/18) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
-2. 🗣 Commented on [#17](https://github.com/a914-gowtham/compose-ratingbar/issues/17) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
-3. 💪 Opened PR [#17](https://github.com/a914-gowtham/compose-ratingbar/pull/17) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
+1. 🗣 Commented on [#17](https://github.com/a914-gowtham/compose-ratingbar/issues/17) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
+2. ❗️ Opened issue [#18](https://github.com/a914-gowtham/compose-ratingbar/issues/18) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
+3. 🗣 Commented on [#17](https://github.com/a914-gowtham/compose-ratingbar/issues/17) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
 <!--END_SECTION:activity-->
 
 ---
