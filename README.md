@@ -66,9 +66,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/codesONLY/JavaScriptONLY/issues/53) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
-2. 🗣 Commented on [#31](https://github.com/codesONLY/JavaScriptONLY/issues/31) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
-3. 🗣 Commented on [#33](https://github.com/codesONLY/JavaScriptONLY/issues/33) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
+1. 🗣 Commented on [#14](https://github.com/a914-gowtham/compose-ratingbar/issues/14) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
+2. 🗣 Commented on [#53](https://github.com/codesONLY/JavaScriptONLY/issues/53) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
+3. 🗣 Commented on [#31](https://github.com/codesONLY/JavaScriptONLY/issues/31) in [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY)
 <!--END_SECTION:activity-->
 
 ---
