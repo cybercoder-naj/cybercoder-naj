@@ -67,8 +67,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/a914-gowtham/compose-ratingbar/issues/17) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
-2. ❗️ Opened issue [#18](https://github.com/a914-gowtham/compose-ratingbar/issues/18) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
-3. 🗣 Commented on [#17](https://github.com/a914-gowtham/compose-ratingbar/issues/17) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
+2. 🗣 Commented on [#17](https://github.com/a914-gowtham/compose-ratingbar/issues/17) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
+3. ❗️ Opened issue [#18](https://github.com/a914-gowtham/compose-ratingbar/issues/18) in [a914-gowtham/compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar)
 <!--END_SECTION:activity-->
 
 ---
