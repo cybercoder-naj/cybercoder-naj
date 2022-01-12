@@ -4,7 +4,7 @@
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
-- 💼 Junior Android Developer at a company.
+- 💼 Freelancing my way through the industry.
 - 😎 I've developed many Android applications, some of which are on the Play Store.
 - 🎓 I'm an [Oracle Certified Java Professional][badge].
 - 🌐 Full Stack web applications with JavaScript/Typescript.
@@ -16,9 +16,7 @@
 [![cybercoder-naj | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 [![61 Keys to Music | YouTube](https://img.shields.io/badge/61%20Keys%20To%20Music%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 [![Nishant | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![cybercoder-naj | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![cybercoder-naj | Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow] \
-[![cybercoder-naj | HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)][hackerrank]
 [![Nishant | Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)][playstore]
 
 ### 🧠 Languages and Tools
