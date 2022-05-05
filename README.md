@@ -4,11 +4,10 @@
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
-- 💼 Freelancing my way through the industry.
 - 😎 I've developed many Android applications, some of which are on the Play Store.
 - 🎓 I'm an [Oracle Certified Java Professional][badge].
 - 🌐 Full Stack web applications with JavaScript/Typescript.
-- 👨‍🏫 I teach Java via online classes.
+- 👨‍🏫 I teach CS and Math on [Schoolhouse.world][shw].
 - 🎶 I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
 
 ### 🤝 Connect with me
@@ -34,6 +33,7 @@
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -66,17 +66,11 @@
 
 ---
 
-### 📺 YouTube Videos
+### 📺 Medium Articles
 
-[![YouTube Videos](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/youtube-workflow.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/youtube-workflow.yml)
+<!-- MEDIUM:START -->
 
-<!-- YOUTUBE:START -->
-- [The Office &lpar;TV Program&rpar; Theme Song | Composed by Jay Ferguson | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=dskeHG3moIc)
-- [This is Berk | John Powell | From &quot;How To Train Your Dragon&quot; | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=NA9KN1Fn5ok)
-- [It&#39;s My Life | Bon Jovi | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=nmni4QTFcmA)
-- [Portals | Alan Silvestri | From &quot;Avengers: Endgame&quot; | Cover by 61 Keys To Music](https://www.youtube.com/watch?v=QanbFx1kLrA)
-- [Hey There Delilah | Plain White T’s | Cover By 61 Keys To Music](https://www.youtube.com/watch?v=Cmoq8jIPA7g)
-<!-- YOUTUBE:END -->
+<!-- MEDIUM:END -->
 
 ---
 
@@ -90,3 +84,4 @@
 [stackoverflow]: https://stackoverflow.com/users/11292068/nishant-jalan
 [hackerrank]: https://www.hackerrank.com/cybercoder_nish1
 [playstore]: https://play.google.com/store/apps/developer?id=Nishant+Aanjaney+Jalan
+[shw]: https://schoolhouse.world/u/50780?ref=u-z1aylccz1vjxlx?celebrate
