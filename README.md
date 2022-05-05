@@ -66,7 +66,7 @@
 
 ---
 
-### 📺 Medium Articles
+### 📝 Medium Articles
 
 <!-- MEDIUM:START -->
 - [Nuxt3 Layouts](https://medium.com/@cybercoder.naj/nuxt3-layouts-276ed64a4a1c?source=rss-ee489d74c1af------2)
