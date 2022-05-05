@@ -68,6 +68,8 @@
 
 ### 📝 Medium Articles
 
+[![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
+
 <!-- MEDIUM:START -->
 - [Nuxt3 Layouts](https://medium.com/@cybercoder.naj/nuxt3-layouts-276ed64a4a1c?source=rss-ee489d74c1af------2)
 - [Science is for the smart ones. A flaw in the Indian Education System](https://medium.com/@cybercoder.naj/science-is-for-the-smart-ones-a-flaw-in-the-indian-education-system-e8c0dd22c350?source=rss-ee489d74c1af------2)
