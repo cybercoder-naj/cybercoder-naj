@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [This is the BEST Developer Roadmap](https://medium.com/@cybercoder.naj/this-is-the-best-developer-roadmap-552e240a6ee5?source=rss-ee489d74c1af------2)
 - [Handle Global State management in Nuxt3](https://medium.com/@cybercoder.naj/handle-global-state-management-in-nuxt3-468e5b3e7901?source=rss-ee489d74c1af------2)
 - [4 reasons Jetpack Compose is better than XML](https://medium.com/@cybercoder.naj/4-reasons-jetpack-compose-is-better-than-xml-ac0efd12db28?source=rss-ee489d74c1af------2)
 - [Nuxt3 Layouts](https://medium.com/@cybercoder.naj/nuxt3-layouts-276ed64a4a1c?source=rss-ee489d74c1af------2)
 - [Science is for the smart ones. A flaw in the Indian Education System](https://medium.com/@cybercoder.naj/science-is-for-the-smart-ones-a-flaw-in-the-indian-education-system-e8c0dd22c350?source=rss-ee489d74c1af------2)
-- [Nuxt3 Routing](https://medium.com/@cybercoder.naj/nuxt3-routing-78a5c1372102?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
