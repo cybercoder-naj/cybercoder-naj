@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [How did I land my first I.T. job at 17 years old?](https://medium.com/codex/how-did-i-land-my-first-i-t-job-at-17-years-old-3c9521fbb35a?source=rss-ee489d74c1af------2)
 - [Do you use Kotlin’s most powerful tool?](https://medium.com/codex/kotlins-most-powerful-tool-1265732544ad?source=rss-ee489d74c1af------2)
 - [The newer way to make Network Calls on Android](https://medium.com/codex/the-newer-way-to-make-network-calls-on-android-7162e2c37fe9?source=rss-ee489d74c1af------2)
 - [This is the BEST Developer Roadmap](https://medium.com/@cybercoder.naj/this-is-the-best-developer-roadmap-552e240a6ee5?source=rss-ee489d74c1af------2)
 - [Handle Global State management in Nuxt3](https://medium.com/@cybercoder.naj/handle-global-state-management-in-nuxt3-468e5b3e7901?source=rss-ee489d74c1af------2)
-- [4 reasons Jetpack Compose is better than XML](https://medium.com/@cybercoder.naj/4-reasons-jetpack-compose-is-better-than-xml-ac0efd12db28?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
