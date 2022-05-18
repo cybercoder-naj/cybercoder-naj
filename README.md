@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Best Workouts After Programming All Day](https://medium.com/codex/best-workouts-after-programming-all-day-33f3b5458071?source=rss-ee489d74c1af------2)
 - [Kotlin’s Builder DSL will change the way you code](https://medium.com/codex/kotlins-builder-dsl-will-change-the-way-you-code-931ecd03012d?source=rss-ee489d74c1af------2)
 - [Nitro Server with Nuxt3](https://medium.com/codex/nitro-server-with-nuxt3-ac043052929f?source=rss-ee489d74c1af------2)
 - [STOP doing this in your Compose Project](https://medium.com/codex/stop-doing-this-in-your-compose-project-4382f2d3b768?source=rss-ee489d74c1af------2)
 - [How did I land my first I.T. job at 17 years old?](https://medium.com/codex/how-did-i-land-my-first-i-t-job-at-17-years-old-3c9521fbb35a?source=rss-ee489d74c1af------2)
-- [Do you use Kotlin’s most powerful tool?](https://medium.com/codex/kotlins-most-powerful-tool-1265732544ad?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
