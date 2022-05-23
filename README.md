@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [How do I Know JavaScript without Learning it?](https://medium.com/codex/how-do-i-know-javascript-without-learning-it-5701ca72e2fe?source=rss-ee489d74c1af------2)
 - [Compose Navigation in 3 Minutes](https://medium.com/@cybercoder.naj/compose-navigation-in-3-minutes-5cff3c57c34e?source=rss-ee489d74c1af------2)
 - [Reasons why should NOT start coding with Kotlin](https://medium.com/codex/reasons-why-should-not-start-coding-with-kotlin-dd89654d8280?source=rss-ee489d74c1af------2)
 - [Dagger Hilt in 3 Minutes](https://medium.com/@cybercoder.naj/dagger-hilt-in-3-minutes-379887708bb0?source=rss-ee489d74c1af------2)
 - [Should You Upload Beginner Projects on GitHub?](https://medium.com/codex/should-you-upload-beginner-projects-on-github-9908d9eb4089?source=rss-ee489d74c1af------2)
-- [These Qualities Make You A Better Programmer](https://medium.com/codex/these-qualities-make-you-a-better-programmer-c94e623379d4?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
