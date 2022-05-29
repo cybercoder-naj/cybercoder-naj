@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Write Compose in XML Project](https://medium.com/codex/write-compose-in-xml-project-836dee68082d?source=rss-ee489d74c1af------2)
 - [Run Python Scripts in The Web Browser](https://medium.com/codex/run-python-scripts-in-the-web-browser-afb09c4b212f?source=rss-ee489d74c1af------2)
 - [How I Reached 15k+ Views in my First Month](https://medium.com/@cybercoder.naj/how-i-reached-15k-views-in-my-first-month-a965563a059f?source=rss-ee489d74c1af------2)
 - [Nuxt3 for Vue.js Web Developers](https://medium.com/codex/nuxt3-for-vue-js-web-developers-9bb2530a57b8?source=rss-ee489d74c1af------2)
 - [The Most Underrated Kotlin Function](https://medium.com/codex/the-most-underrated-kotlin-function-2655459e9e4a?source=rss-ee489d74c1af------2)
-- [How do I Know JavaScript without Learning it?](https://medium.com/codex/how-do-i-know-javascript-without-learning-it-5701ca72e2fe?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
