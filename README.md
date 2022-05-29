@@ -59,9 +59,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/markdown-badges/pull/1) in [cybercoder-naj/markdown-badges](https://github.com/cybercoder-naj/markdown-badges)
-2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/markdown-badges/pull/1) in [cybercoder-naj/markdown-badges](https://github.com/cybercoder-naj/markdown-badges)
-3. ❗️ Opened issue [#227](https://github.com/EmilTholin/svelte-routing/issues/227) in [EmilTholin/svelte-routing](https://github.com/EmilTholin/svelte-routing)
+1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/sliding-bar/pull/1) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
+2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/sliding-bar/pull/1) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
+3. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/markdown-badges/pull/1) in [cybercoder-naj/markdown-badges](https://github.com/cybercoder-naj/markdown-badges)
 <!--END_SECTION:activity-->
 
 ---
