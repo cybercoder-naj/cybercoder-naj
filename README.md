@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Here’s why Python is Hated](https://medium.com/codex/heres-why-python-is-hated-784cbf11c9a5?source=rss-ee489d74c1af------2)
 - [I FIXED the Compose Slider](https://medium.com/codex/i-fixed-the-compose-slider-70d08e1293f?source=rss-ee489d74c1af------2)
 - [Write Compose in XML Project](https://medium.com/codex/write-compose-in-xml-project-836dee68082d?source=rss-ee489d74c1af------2)
 - [Run Python Scripts in The Web Browser](https://medium.com/codex/run-python-scripts-in-the-web-browser-afb09c4b212f?source=rss-ee489d74c1af------2)
 - [How I Reached 15k+ Views in my First Month](https://medium.com/@cybercoder.naj/how-i-reached-15k-views-in-my-first-month-a965563a059f?source=rss-ee489d74c1af------2)
-- [Nuxt3 for Vue.js Web Developers](https://medium.com/codex/nuxt3-for-vue-js-web-developers-9bb2530a57b8?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
