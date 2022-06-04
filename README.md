@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [The Worst Programming Habit](https://medium.com/codex/the-worst-programming-habit-2c83c1d93bd3?source=rss-ee489d74c1af------2)
 - [Create App Shortcuts In Android](https://proandroiddev.com/create-app-shortcuts-in-android-8dfa1f606e83?source=rss-ee489d74c1af------2)
 - [Here’s why Python is Hated](https://medium.com/codex/heres-why-python-is-hated-784cbf11c9a5?source=rss-ee489d74c1af------2)
 - [I FIXED the Compose Slider](https://medium.com/codex/i-fixed-the-compose-slider-70d08e1293f?source=rss-ee489d74c1af------2)
 - [Write Compose in XML Project](https://medium.com/codex/write-compose-in-xml-project-836dee68082d?source=rss-ee489d74c1af------2)
-- [Run Python Scripts in The Web Browser](https://medium.com/codex/run-python-scripts-in-the-web-browser-afb09c4b212f?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
