@@ -71,7 +71,7 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
-- [Start Competitive Programming with Kotlin](https://betterprogramming.pub/start-competitive-programming-with-kotlin-ab704fb5bcda?source=rss-ee489d74c1af------2)
+- [Start Competitive Programming with Kotlin](https://medium.com/codex/start-competitive-programming-with-kotlin-ab704fb5bcda?source=rss-ee489d74c1af------2)
 - [Top Tips To Get Better at Programming](https://medium.com/codex/top-tips-to-get-better-at-programming-d5e4c28d93e1?source=rss-ee489d74c1af------2)
 - [The Worst Programming Habit](https://medium.com/codex/the-worst-programming-habit-2c83c1d93bd3?source=rss-ee489d74c1af------2)
 - [Create App Shortcuts In Android](https://proandroiddev.com/create-app-shortcuts-in-android-8dfa1f606e83?source=rss-ee489d74c1af------2)
