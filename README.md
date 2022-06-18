@@ -59,9 +59,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/cybercoder-naj/sliding-bar/issues/3) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
-2. ❗️ Opened issue [#2](https://github.com/cybercoder-naj/sliding-bar/issues/2) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
-3. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/sliding-bar/pull/1) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
+1. 🗣 Commented on [#4954](https://github.com/nuxt/framework/issues/4954) in [nuxt/framework](https://github.com/nuxt/framework)
+2. ❗️ Opened issue [#3](https://github.com/cybercoder-naj/sliding-bar/issues/3) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
+3. ❗️ Opened issue [#2](https://github.com/cybercoder-naj/sliding-bar/issues/2) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
 <!--END_SECTION:activity-->
 
 ---
