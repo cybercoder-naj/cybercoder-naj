@@ -59,9 +59,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4954](https://github.com/nuxt/framework/issues/4954) in [nuxt/framework](https://github.com/nuxt/framework)
+1. ❗️ Opened issue [#5600](https://github.com/nuxt/framework/issues/5600) in [nuxt/framework](https://github.com/nuxt/framework)
 2. 🗣 Commented on [#4954](https://github.com/nuxt/framework/issues/4954) in [nuxt/framework](https://github.com/nuxt/framework)
-3. ❗️ Opened issue [#3](https://github.com/cybercoder-naj/sliding-bar/issues/3) in [cybercoder-naj/sliding-bar](https://github.com/cybercoder-naj/sliding-bar)
+3. 🗣 Commented on [#4954](https://github.com/nuxt/framework/issues/4954) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
 
 ---
