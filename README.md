@@ -71,7 +71,7 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
-- [The Math Required for Android Development](https://proandroiddev.com/the-math-required-for-android-development-558c706aa97?source=rss-ee489d74c1af------2)
+- [The Math Required for Android Development](https://medium.com/codex/the-math-required-for-android-development-558c706aa97?source=rss-ee489d74c1af------2)
 - [The Complete Guide to Testing with Cypress](https://medium.com/codex/the-complete-guide-to-testing-with-cypress-7bbdb2ffa5d7?source=rss-ee489d74c1af------2)
 - [5 Untold Features of Kotlin](https://medium.com/codex/5-untold-features-of-kotlin-6cd623768c1e?source=rss-ee489d74c1af------2)
 - [Here is Your Programmer Story](https://medium.com/codex/here-is-your-programmer-story-f81205a9bf58?source=rss-ee489d74c1af------2)
