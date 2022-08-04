@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Intro to Animation Time Interpolators](https://betterprogramming.pub/intro-to-animation-time-interpolators-b304a0ea3117?source=rss-ee489d74c1af------2)
 - [Stop Using RecyclerView.Adapter](https://medium.com/codex/stop-using-recyclerview-adapter-27c77666512b?source=rss-ee489d74c1af------2)
 - [The God-level Kotlin Function](https://medium.com/codex/the-god-level-kotlin-function-e287a0df8bed?source=rss-ee489d74c1af------2)
 - [Extension Functions You Need to Know in Android](https://medium.com/codex/extension-functions-you-need-to-know-in-android-a87c2e9b5d9e?source=rss-ee489d74c1af------2)
 - [The Math Required for Android Development](https://medium.com/codex/the-math-required-for-android-development-558c706aa97?source=rss-ee489d74c1af------2)
-- [The Complete Guide to Testing with Cypress](https://medium.com/codex/the-complete-guide-to-testing-with-cypress-7bbdb2ffa5d7?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
