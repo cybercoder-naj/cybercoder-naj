@@ -71,7 +71,7 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
-- [Intro to Animation Time Interpolators](https://betterprogramming.pub/intro-to-animation-time-interpolators-b304a0ea3117?source=rss-ee489d74c1af------2)
+- [Intro to Animation Time Interpolators](https://medium.com/@cybercoder.naj/intro-to-animation-time-interpolators-b304a0ea3117?source=rss-ee489d74c1af------2)
 - [Stop Using RecyclerView.Adapter](https://medium.com/codex/stop-using-recyclerview-adapter-27c77666512b?source=rss-ee489d74c1af------2)
 - [The God-level Kotlin Function](https://medium.com/codex/the-god-level-kotlin-function-e287a0df8bed?source=rss-ee489d74c1af------2)
 - [Extension Functions You Need to Know in Android](https://medium.com/codex/extension-functions-you-need-to-know-in-android-a87c2e9b5d9e?source=rss-ee489d74c1af------2)
