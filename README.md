@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Here’s why Instagram/YouTube is good for you.](https://medium.com/codex/heres-why-instagram-youtube-is-good-for-you-a00e1f31c5d5?source=rss-ee489d74c1af------2)
+- [Introduction to programming in Haskell](https://medium.com/codex/introduction-to-programming-in-haskell-36572ddf22cd?source=rss-ee489d74c1af------2)
 - [I rejected the offer when HR told me this…](https://medium.com/codex/i-rejected-the-offer-when-hr-told-me-this-e564ea494d1b?source=rss-ee489d74c1af------2)
 - [Starting with Haskell](https://medium.com/codex/starting-with-haskell-24d6027a719e?source=rss-ee489d74c1af------2)
 - [Feeling Burned Out? Here’s what to do](https://medium.com/codex/feeling-burned-out-heres-what-to-do-91c7864fb1be?source=rss-ee489d74c1af------2)
-- [Intro to Animation Time Interpolators](https://medium.com/codex/intro-to-animation-time-interpolators-b304a0ea3117?source=rss-ee489d74c1af------2)
-- [Stop Using RecyclerView.Adapter](https://medium.com/codex/stop-using-recyclerview-adapter-27c77666512b?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
