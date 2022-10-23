@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Build a Node server in 3 minutes](https://medium.com/codex/build-a-node-server-in-3-minutes-ea395e369e5b?source=rss-ee489d74c1af------2)
 - [Drag-n-Drop with Vanilla JavaScript](https://medium.com/codex/drag-n-drop-with-vanilla-javascript-75f9c396ecd?source=rss-ee489d74c1af------2)
 - [Here’s why Instagram/YouTube is good for you.](https://medium.com/codex/heres-why-instagram-youtube-is-good-for-you-a00e1f31c5d5?source=rss-ee489d74c1af------2)
 - [Introduction to programming in Haskell](https://medium.com/codex/introduction-to-programming-in-haskell-36572ddf22cd?source=rss-ee489d74c1af------2)
 - [Starting with Haskell](https://medium.com/codex/starting-with-haskell-24d6027a719e?source=rss-ee489d74c1af------2)
-- [Feeling Burned Out? Here’s what to do](https://medium.com/codex/feeling-burned-out-heres-what-to-do-91c7864fb1be?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
