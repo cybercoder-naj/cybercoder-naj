@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [I know Java, but I can’t Build a Big Application — Chess tutorial](https://medium.com/codex/i-know-java-but-i-cant-build-a-big-application-chess-tutorial-96c7f29aa66b?source=rss-ee489d74c1af------2)
 - [Land your Jobs and Placements from Career Fairs](https://medium.com/codex/land-your-jobs-and-placements-from-career-fairs-28ad1fd5c925?source=rss-ee489d74c1af------2)
 - [Important HTML tags to know](https://medium.com/codex/important-html-tags-to-know-78d6ea51c0b4?source=rss-ee489d74c1af------2)
 - [Build a Node server in 3 minutes](https://medium.com/codex/build-a-node-server-in-3-minutes-ea395e369e5b?source=rss-ee489d74c1af------2)
 - [Drag-n-Drop with Vanilla JavaScript](https://medium.com/codex/drag-n-drop-with-vanilla-javascript-75f9c396ecd?source=rss-ee489d74c1af------2)
-- [Here’s why Instagram/YouTube is good for you.](https://medium.com/codex/heres-why-instagram-youtube-is-good-for-you-a00e1f31c5d5?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
