@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Getting Started with Kotlin](https://medium.com/codex/getting-started-with-kotlin-964ed8e2fca8?source=rss-ee489d74c1af------2)
 - [Programming in Kotlin](https://medium.com/codex/programming-in-kotlin-934bdb3659cf?source=rss-ee489d74c1af------2)
 - [I know Java, but I can’t Build a Big Application — Chess tutorial](https://medium.com/codex/i-know-java-but-i-cant-build-a-big-application-chess-tutorial-96c7f29aa66b?source=rss-ee489d74c1af------2)
 - [Land your Jobs and Placements from Career Fairs](https://medium.com/codex/land-your-jobs-and-placements-from-career-fairs-28ad1fd5c925?source=rss-ee489d74c1af------2)
 - [Important HTML tags to know](https://medium.com/codex/important-html-tags-to-know-78d6ea51c0b4?source=rss-ee489d74c1af------2)
-- [Build a Node server in 3 minutes](https://medium.com/codex/build-a-node-server-in-3-minutes-ea395e369e5b?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
