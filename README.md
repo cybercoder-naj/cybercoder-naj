@@ -59,9 +59,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5600](https://github.com/nuxt/framework/issues/5600) in [nuxt/framework](https://github.com/nuxt/framework)
-2. 🗣 Commented on [#4954](https://github.com/nuxt/framework/issues/4954) in [nuxt/framework](https://github.com/nuxt/framework)
-3. 🗣 Commented on [#4954](https://github.com/nuxt/framework/issues/4954) in [nuxt/framework](https://github.com/nuxt/framework)
+1. ❗️ Closed issue [#1](https://github.com/cybercoder-naj/CircuitKt/issues/1) in [cybercoder-naj/CircuitKt](https://github.com/cybercoder-naj/CircuitKt)
+2. ❗️ Opened issue [#2](https://github.com/cybercoder-naj/CircuitKt/issues/2) in [cybercoder-naj/CircuitKt](https://github.com/cybercoder-naj/CircuitKt)
+3. ❗️ Opened issue [#1](https://github.com/cybercoder-naj/CircuitKt/issues/1) in [cybercoder-naj/CircuitKt](https://github.com/cybercoder-naj/CircuitKt)
 <!--END_SECTION:activity-->
 
 ---
