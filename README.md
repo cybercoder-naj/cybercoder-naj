@@ -71,7 +71,7 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
-- [Do you follow these Kotlin Best Practices?](https://medium.com/@cybercoder.naj/do-you-follow-these-kotlin-best-practices-d7e68ed58150?source=rss-ee489d74c1af------2)
+- [Do you follow these Kotlin Best Practices?](https://medium.com/codex/do-you-follow-these-kotlin-best-practices-d7e68ed58150?source=rss-ee489d74c1af------2)
 - [Mix up your Kotlin functions with Function Composition](https://medium.com/codex/mix-up-your-kotlin-functions-with-function-composition-c0f635d40c87?source=rss-ee489d74c1af------2)
 - [Getting Started with Kotlin](https://medium.com/codex/getting-started-with-kotlin-964ed8e2fca8?source=rss-ee489d74c1af------2)
 - [Programming in Kotlin](https://medium.com/codex/programming-in-kotlin-934bdb3659cf?source=rss-ee489d74c1af------2)
