@@ -71,7 +71,7 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
-- [ExoPlayer in Android 2022 — Getting Started](https://medium.com/@cybercoder.naj/exoplayer-in-android-2022-getting-started-6edcb2b399e5?source=rss-ee489d74c1af------2)
+- [ExoPlayer in Android 2022 — Getting Started](https://medium.com/codex/exoplayer-in-android-2022-getting-started-6edcb2b399e5?source=rss-ee489d74c1af------2)
 - [Simple Mongo Setup with Express](https://medium.com/codex/simple-mongo-setup-with-express-646583e47ebd?source=rss-ee489d74c1af------2)
 - [Do you follow these Kotlin Best Practices?](https://medium.com/codex/do-you-follow-these-kotlin-best-practices-d7e68ed58150?source=rss-ee489d74c1af------2)
 - [Mix up your Kotlin functions with Function Composition](https://medium.com/codex/mix-up-your-kotlin-functions-with-function-composition-c0f635d40c87?source=rss-ee489d74c1af------2)
