@@ -71,7 +71,7 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
-- [Learn Fingerprint Auth in 3 minutes](https://medium.com/@cybercoder.naj/learn-fingerprint-auth-in-3-minutes-5c5e2d1f004a?source=rss-ee489d74c1af------2)
+- [Learn Fingerprint Auth in 3 minutes](https://medium.com/codex/learn-fingerprint-auth-in-3-minutes-5c5e2d1f004a?source=rss-ee489d74c1af------2)
 - [How to become a better developer?](https://medium.com/codex/how-to-become-a-better-developer-302a47652efd?source=rss-ee489d74c1af------2)
 - [The Ultimate War of Programming Paradigms](https://medium.com/codex/the-ultimate-war-of-programming-paradigms-fbd293f734d2?source=rss-ee489d74c1af------2)
 - [ExoPlayer in Android 2022 — Getting Started](https://medium.com/codex/exoplayer-in-android-2022-getting-started-6edcb2b399e5?source=rss-ee489d74c1af------2)
