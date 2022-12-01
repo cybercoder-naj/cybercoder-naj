@@ -71,7 +71,7 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
-- [There’s a new operator in Kotlin!](https://medium.com/@cybercoder.naj/theres-a-new-operator-in-kotlin-f9ad86dfbbb5?source=rss-ee489d74c1af------2)
+- [There’s a new operator in Kotlin!](https://medium.com/codex/theres-a-new-operator-in-kotlin-f9ad86dfbbb5?source=rss-ee489d74c1af------2)
 - [I bet you didn’t know about these features in Kotlin](https://medium.com/codex/i-bet-you-didnt-know-about-these-features-in-kotlin-9bc660862e6d?source=rss-ee489d74c1af------2)
 - [Concepts you need to know about Object Oriented Programming](https://medium.com/codex/concepts-you-need-to-know-about-object-oriented-programming-d168faa3bbc1?source=rss-ee489d74c1af------2)
 - [Learn Fingerprint Auth in 3 minutes](https://medium.com/codex/learn-fingerprint-auth-in-3-minutes-5c5e2d1f004a?source=rss-ee489d74c1af------2)
