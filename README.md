@@ -59,9 +59,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/ziggy42/kolor/pull/17) in [ziggy42/kolor](https://github.com/ziggy42/kolor)
-2. 🗣 Commented on [#16](https://github.com/ziggy42/kolor/issues/16) in [ziggy42/kolor](https://github.com/ziggy42/kolor)
-3. ❗️ Closed issue [#1](https://github.com/cybercoder-naj/CircuitKt/issues/1) in [cybercoder-naj/CircuitKt](https://github.com/cybercoder-naj/CircuitKt)
+1. ❗️ Opened issue [#1](https://github.com/jordanspooner/haskell-tests/issues/1) in [jordanspooner/haskell-tests](https://github.com/jordanspooner/haskell-tests)
+2. 💪 Opened PR [#17](https://github.com/ziggy42/kolor/pull/17) in [ziggy42/kolor](https://github.com/ziggy42/kolor)
+3. 🗣 Commented on [#16](https://github.com/ziggy42/kolor/issues/16) in [ziggy42/kolor](https://github.com/ziggy42/kolor)
 <!--END_SECTION:activity-->
 
 ---
