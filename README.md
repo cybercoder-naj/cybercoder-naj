@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Kotlin is the Future of Back-end Development.](https://towardsdev.com/kotlin-is-the-future-of-back-end-development-1dfad12c4e9c?source=rss-ee489d74c1af------2)
 - [5 Programming mistakes NOBODY talks about](https://medium.com/codex/5-programming-mistakes-nobody-talks-about-1e0e07a85a96?source=rss-ee489d74c1af------2)
 - [Using Firebase in Nuxt3 the Right Way](https://medium.com/codex/using-firebase-in-nuxt3-the-right-way-bebbb6d8c4dd?source=rss-ee489d74c1af------2)
 - [You need to do this as a JavaScript Developer](https://medium.com/codex/you-need-to-do-this-as-a-javascript-developer-622d5208ca52?source=rss-ee489d74c1af------2)
 - [There’s a new operator in Kotlin!](https://medium.com/codex/theres-a-new-operator-in-kotlin-f9ad86dfbbb5?source=rss-ee489d74c1af------2)
-- [I bet you didn’t know about these features in Kotlin](https://medium.com/codex/i-bet-you-didnt-know-about-these-features-in-kotlin-9bc660862e6d?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
