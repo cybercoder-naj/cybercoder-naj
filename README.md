@@ -59,9 +59,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14209](https://github.com/nuxt/nuxt.js/issues/14209) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-2. 💪 Opened PR [#5](https://github.com/tomcobley/haskell-final-exams/pull/5) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
-3. ❗️ Opened issue [#4](https://github.com/tomcobley/haskell-final-exams/issues/4) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
+1. 🎉 Merged PR [#4](https://github.com/cybercoder-naj/ichack23/pull/4) in [cybercoder-naj/ichack23](https://github.com/cybercoder-naj/ichack23)
+2. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/ichack23/pull/3) in [cybercoder-naj/ichack23](https://github.com/cybercoder-naj/ichack23)
+3. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/ichack23/pull/2) in [cybercoder-naj/ichack23](https://github.com/cybercoder-naj/ichack23)
 <!--END_SECTION:activity-->
 
 ---
