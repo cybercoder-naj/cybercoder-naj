@@ -71,11 +71,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [This Mistake Can Kill You As A Programmer](https://medium.com/codex/this-mistake-can-kill-you-as-a-programmer-674b288ce82b?source=rss-ee489d74c1af------2)
 - [Play Tic Tac Toe with Artificial Intelligence — Python](https://medium.com/codex/play-tic-tac-toe-with-artificial-intelligence-python-bf6725ed44f9?source=rss-ee489d74c1af------2)
 - [Kotlin also has the === operator. What does this mean?](https://medium.com/codex/kotlin-also-has-the-operator-what-does-this-mean-f8ae8d42c0b6?source=rss-ee489d74c1af------2)
 - [How to Start Programming in 2023](https://medium.com/codex/how-to-start-programming-in-2023-f4f04cf38a22?source=rss-ee489d74c1af------2)
 - [Kotlin is the Future of Back-end Development.](https://towardsdev.com/kotlin-is-the-future-of-back-end-development-1dfad12c4e9c?source=rss-ee489d74c1af------2)
-- [5 Programming mistakes NOBODY talks about](https://medium.com/codex/5-programming-mistakes-nobody-talks-about-1e0e07a85a96?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
