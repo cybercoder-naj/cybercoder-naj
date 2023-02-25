@@ -65,11 +65,11 @@
 [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
 
 <!-- MEDIUM:START -->
+- [Rust 101 — Everything you need to know about Rust](https://medium.com/codex/rust-101-everything-you-need-to-know-about-rust-f3dd0ae99f4c?source=rss-ee489d74c1af------2)
 - [Why Ktor Should Be Your Next Framework](https://towardsdev.com/why-ktor-should-be-your-next-framework-fe8881407c8e?source=rss-ee489d74c1af------2)
 - [This Mistake Can Kill You As A Programmer](https://medium.com/codex/this-mistake-can-kill-you-as-a-programmer-674b288ce82b?source=rss-ee489d74c1af------2)
 - [Play Tic Tac Toe with Artificial Intelligence — Python](https://medium.com/codex/play-tic-tac-toe-with-artificial-intelligence-python-bf6725ed44f9?source=rss-ee489d74c1af------2)
 - [Kotlin also has the === operator. What does this mean?](https://medium.com/codex/kotlin-also-has-the-operator-what-does-this-mean-f8ae8d42c0b6?source=rss-ee489d74c1af------2)
-- [How to Start Programming in 2023](https://medium.com/codex/how-to-start-programming-in-2023-f4f04cf38a22?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
