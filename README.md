@@ -53,9 +53,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/cybercoder-naj/ichack23/pull/4) in [cybercoder-naj/ichack23](https://github.com/cybercoder-naj/ichack23)
-2. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/ichack23/pull/3) in [cybercoder-naj/ichack23](https://github.com/cybercoder-naj/ichack23)
-3. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/ichack23/pull/2) in [cybercoder-naj/ichack23](https://github.com/cybercoder-naj/ichack23)
+1. 💪 Opened PR [#7](https://github.com/tomcobley/haskell-final-exams/pull/7) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
+2. ❗️ Opened issue [#6](https://github.com/tomcobley/haskell-final-exams/issues/6) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
+3. ❗️ Closed issue [#3](https://github.com/tomcobley/haskell-final-exams/issues/3) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
 <!--END_SECTION:activity-->
 
 ---
