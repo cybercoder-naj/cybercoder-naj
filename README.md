@@ -53,9 +53,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/tomcobley/haskell-final-exams/pull/7) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
-2. ❗️ Opened issue [#6](https://github.com/tomcobley/haskell-final-exams/issues/6) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
-3. ❗️ Closed issue [#3](https://github.com/tomcobley/haskell-final-exams/issues/3) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
+1. ❗️ Opened issue [#1716](https://github.com/logisim-evolution/logisim-evolution/issues/1716) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+2. 💪 Opened PR [#7](https://github.com/tomcobley/haskell-final-exams/pull/7) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
+3. ❗️ Opened issue [#6](https://github.com/tomcobley/haskell-final-exams/issues/6) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
 <!--END_SECTION:activity-->
 
 ---
