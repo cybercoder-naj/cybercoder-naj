@@ -53,9 +53,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4794](https://github.com/xournalpp/xournalpp/issues/4794) in [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
-2. ❗️ Opened issue [#1716](https://github.com/logisim-evolution/logisim-evolution/issues/1716) in [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-3. 💪 Opened PR [#7](https://github.com/tomcobley/haskell-final-exams/pull/7) in [tomcobley/haskell-final-exams](https://github.com/tomcobley/haskell-final-exams)
+1. ❗️ Closed issue [#4794](https://github.com/xournalpp/xournalpp/issues/4794) in [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
+2. 🗣 Commented on [#4794](https://github.com/xournalpp/xournalpp/issues/4794) in [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
+3. ❗️ Opened issue [#4794](https://github.com/xournalpp/xournalpp/issues/4794) in [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
 <!--END_SECTION:activity-->
 
 ---
