@@ -53,9 +53,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4021](https://github.com/LunarVim/LunarVim/issues/4021) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-2. ❗️ Closed issue [#4794](https://github.com/xournalpp/xournalpp/issues/4794) in [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
-3. 🗣 Commented on [#4794](https://github.com/xournalpp/xournalpp/issues/4794) in [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
+1. ❗️ Opened issue [#1602](https://github.com/GSConnect/gnome-shell-extension-gsconnect/issues/1602) in [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
+2. ❗️ Opened issue [#4021](https://github.com/LunarVim/LunarVim/issues/4021) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+3. ❗️ Closed issue [#4794](https://github.com/xournalpp/xournalpp/issues/4794) in [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)
 <!--END_SECTION:activity-->
 
 ---
