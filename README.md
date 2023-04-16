@@ -53,9 +53,9 @@
 [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1602](https://github.com/GSConnect/gnome-shell-extension-gsconnect/issues/1602) in [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
-2. ❗️ Opened issue [#1602](https://github.com/GSConnect/gnome-shell-extension-gsconnect/issues/1602) in [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)
-3. ❗️ Opened issue [#4021](https://github.com/LunarVim/LunarVim/issues/4021) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+1. 💪 Opened PR [#6136](https://github.com/EddieHubCommunity/LinkFree/pull/6136) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❌ Closed PR [#1](https://github.com/cybercoder-naj/LinkFree/pull/1) in [cybercoder-naj/LinkFree](https://github.com/cybercoder-naj/LinkFree)
+3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/LinkFree/pull/1) in [cybercoder-naj/LinkFree](https://github.com/cybercoder-naj/LinkFree)
 <!--END_SECTION:activity-->
 
 ---
