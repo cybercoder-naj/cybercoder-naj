@@ -37,9 +37,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/TheAlgorithms/Kotlin/issues/96) in [TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin)
-2. 🗣 Commented on [#6136](https://github.com/EddieHubCommunity/LinkFree/issues/6136) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/cybercoder-naj/pull/2) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+1. ❗️ Opened issue [#527](https://github.com/Ileriayo/markdown-badges/issues/527) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. 🗣 Commented on [#411](https://github.com/Ileriayo/markdown-badges/issues/411) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. 🗣 Commented on [#96](https://github.com/TheAlgorithms/Kotlin/issues/96) in [TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
