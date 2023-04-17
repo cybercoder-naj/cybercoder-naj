@@ -34,7 +34,7 @@
 
 ### ⚡ Recent Activity
 
-[![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml)
+<!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#6136](https://github.com/EddieHubCommunity/LinkFree/pull/6136) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
@@ -46,7 +46,7 @@
 
 ### 📝 Medium Articles
 
-[![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml)
+<!-- [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml) -->
 
 <!-- MEDIUM:START -->
 - [Why Java Was Loved 20 Years Ago and Disliked Today](https://medium.com/codex/why-java-was-loved-20-years-ago-and-disliked-today-ef45f7a53740?source=rss-ee489d74c1af------2)
