@@ -9,7 +9,7 @@
 - 👨‍🏫 I teach CS and Math on [Schoolhouse.world][shw].
 - 🎶 I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
 
-<a href="https://www.buymeacoffee.com/cybercoder.naj"><img src="./bmc-button.svg" width="128"></a>
+<a href="https://www.buymeacoffee.com/cybercoder.naj" target="_blank"><img src="./bmc-button.svg" width="128"></a>
 
 ### 🤝 Connect with me
 
