@@ -9,6 +9,8 @@
 - 👨‍🏫 I teach CS and Math on [Schoolhouse.world][shw].
 - 🎶 I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
 
+<a href="https://www.buymeacoffee.com/cybercoder.naj"><img src="./bmc-button.svg" width="100"></a>
+
 ### 🤝 Connect with me
 
 [![cybercoder-naj | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
@@ -70,3 +72,4 @@
 [playstore]: https://play.google.com/store/apps/developer?id=Nishant+Aanjaney+Jalan
 [shw]: https://schoolhouse.world/u/50780?ref=u-z1aylccz1vjxlx?celebrate
 [medium]: https://www.medium.com/@cybercoder.naj
+[bmc]: https://www.buymeacoffee.com/cybercoder.naj
