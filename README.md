@@ -72,4 +72,3 @@
 [playstore]: https://play.google.com/store/apps/developer?id=Nishant+Aanjaney+Jalan
 [shw]: https://schoolhouse.world/u/50780?ref=u-z1aylccz1vjxlx?celebrate
 [medium]: https://www.medium.com/@cybercoder.naj
-[bmc]: https://www.buymeacoffee.com/cybercoder.naj
