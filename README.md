@@ -39,9 +39,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#527](https://github.com/Ileriayo/markdown-badges/issues/527) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. 🗣 Commented on [#411](https://github.com/Ileriayo/markdown-badges/issues/411) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-3. 🗣 Commented on [#96](https://github.com/TheAlgorithms/Kotlin/issues/96) in [TheAlgorithms/Kotlin](https://github.com/TheAlgorithms/Kotlin)
+1. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/cybercoder-naj/pull/3) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+2. 💪 Opened PR [#3](https://github.com/cybercoder-naj/cybercoder-naj/pull/3) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+3. ❗️ Opened issue [#527](https://github.com/Ileriayo/markdown-badges/issues/527) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
