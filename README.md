@@ -1,6 +1,7 @@
 # Hello, World! My name is Nishant - aka [cybercoder-naj][github] 👋
 
-![Banner](banner.png)
+<a href="https://www.buymeacoffee.com/cybercoder.naj" target="_blank" align="center"><img src="./bmc-button.svg" width="256"></a>
+<!--![Banner](banner.png)-->
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
@@ -9,7 +10,6 @@
 - 👨‍🏫 I teach CS and Math on [Schoolhouse.world][shw].
 - 🎶 I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
 
-<a href="https://www.buymeacoffee.com/cybercoder.naj" target="_blank"><img src="./bmc-button.svg" width="128"></a>
 
 ### 🤝 Connect with me
 
