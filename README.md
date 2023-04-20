@@ -1,6 +1,6 @@
 # Hello, World! My name is Nishant - aka [cybercoder-naj][github] 👋
 
-<div style="text-align:center"><a href="https://www.buymeacoffee.com/cybercoder.naj" target="_blank"><img src="./bmc-button.svg" width="256"></a></div>
+<p align="center"><a href="https://www.buymeacoffee.com/cybercoder.naj" target="_blank"><img src="./bmc-button.svg" width="256"></a></p>
 <!--![Banner](banner.png)-->
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
