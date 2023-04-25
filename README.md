@@ -1,7 +1,5 @@
 # Hello, World! My name is Nishant - aka [cybercoder-naj][github] 👋
 
-![Banner](banner.png)
-
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
 - 😎 I've developed many Android applications, some of which are on the Play Store.
@@ -30,7 +28,6 @@
 
 <!-- --- -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple)][github] -->
 
 ---
 
@@ -61,6 +58,7 @@
 ---
 
 [![Nishant's Github Stats](https://github-readme-stats.vercel.app/api?username=cybercoder-naj&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)][github]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact)][github]
 
 [github]: https://github.com/cybercoder-naj
 [badge]: https://www.youracclaim.com/badges/79bbfbe8-cdf4-4d8d-b1ba-57efaa5c331d/linked_in_profile
