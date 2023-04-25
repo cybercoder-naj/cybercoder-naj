@@ -1,7 +1,5 @@
 # Hello, World! My name is Nishant - aka [cybercoder-naj][github] 👋
 
-![Banner](banner.png)
-
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
 - 😎 I've developed many Android applications, some of which are on the Play Store.
