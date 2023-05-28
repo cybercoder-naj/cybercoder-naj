@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/1) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
-2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/1) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
-3. ❗️ Opened issue [#1](https://github.com/cybercoder-naj/DebriefServer/issues/1) in [cybercoder-naj/DebriefServer](https://github.com/cybercoder-naj/DebriefServer)
+1. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/3) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
+2. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/2) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
+3. 💪 Opened PR [#3](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/3) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
