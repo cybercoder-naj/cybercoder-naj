@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/cybercoder-naj/DebriefServer/issues/1) in [cybercoder-naj/DebriefServer](https://github.com/cybercoder-naj/DebriefServer)
-2. 🎉 Merged PR [#4](https://github.com/cybercoder-naj/cybercoder-naj/pull/4) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
-3. 💪 Opened PR [#4](https://github.com/cybercoder-naj/cybercoder-naj/pull/4) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/1) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
+2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/1) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
+3. ❗️ Opened issue [#1](https://github.com/cybercoder-naj/DebriefServer/issues/1) in [cybercoder-naj/DebriefServer](https://github.com/cybercoder-naj/DebriefServer)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
