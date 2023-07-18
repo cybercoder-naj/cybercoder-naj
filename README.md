@@ -48,11 +48,11 @@
 <!-- [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml) -->
 
 <!-- MEDIUM:START -->
+- [Is the Red-Green-Refactor Cycle of Test-Driven Development Good?](https://medium.com/codex/is-the-red-green-refactor-cycle-of-test-driven-development-good-9e2b1b52d721?source=rss-ee489d74c1af------2)
 - [Harmonizing Signals: Harnessing the Power of FFT to Decode Waveform Files](https://medium.com/codex/harmonizing-signals-harnessing-the-power-of-fft-to-decode-waveform-files-668e39cb7511?source=rss-ee489d74c1af------2)
 - [Why Java Was Loved 20 Years Ago and Disliked Today](https://medium.com/codex/why-java-was-loved-20-years-ago-and-disliked-today-ef45f7a53740?source=rss-ee489d74c1af------2)
 - [This Algorithm is faster than Merge Sort](https://medium.com/codex/this-algorithm-is-faster-than-merge-sort-12564541a425?source=rss-ee489d74c1af------2)
 - [It’s 2023 — Why do I still use Vim?](https://medium.com/codex/its-2023-why-do-i-still-use-vim-6d4e51587d4e?source=rss-ee489d74c1af------2)
-- [Programming Principles They Don’t Teach You In School](https://medium.com/codex/programming-principles-they-dont-teach-you-in-school-7c14b21cdf64?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 ---
