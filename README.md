@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/gitit/pull/2) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
-2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/gitit/pull/1) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
-3. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/ImperialJavaLectures/pull/3) in [cybercoder-naj/ImperialJavaLectures](https://github.com/cybercoder-naj/ImperialJavaLectures)
+1. 🎉 Merged PR [#5](https://github.com/cybercoder-naj/cybercoder-naj/pull/5) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+2. 💪 Opened PR [#5](https://github.com/cybercoder-naj/cybercoder-naj/pull/5) in [cybercoder-naj/cybercoder-naj](https://github.com/cybercoder-naj/cybercoder-naj)
+3. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/gitit/pull/3) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
