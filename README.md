@@ -55,9 +55,7 @@
 - [This Algorithm is faster than Merge Sort](https://medium.com/codex/this-algorithm-is-faster-than-merge-sort-12564541a425?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
-<!-----
-
-[![Nishant's Github Stats](https://github-readme-stats.vercel.app/api?username=cybercoder-naj&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)][github]
+<!--[![Nishant's Github Stats](https://github-readme-stats.vercel.app/api?username=cybercoder-naj&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)][github]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact)][github]-->
 
 [github]: https://github.com/cybercoder-naj
