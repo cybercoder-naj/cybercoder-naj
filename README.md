@@ -48,11 +48,11 @@
 <!-- [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml) -->
 
 <!-- MEDIUM:START -->
+- [Don’t Fear REGular EXpressions](https://medium.com/codex/dont-fear-regular-expressions-ff2ff202a1e5?source=rss-ee489d74c1af------2)
 - [C Macros: Pseudo-generic methods and structs](https://medium.com/codex/c-macros-pseudo-generic-methods-and-structs-b4236e6e50b8?source=rss-ee489d74c1af------2)
 - [Is the Red-Green-Refactor Cycle of Test-Driven Development Good?](https://medium.com/news-uk-technology/is-the-red-green-refactor-cycle-of-test-driven-development-good-9e2b1b52d721?source=rss-ee489d74c1af------2)
 - [Harmonizing Signals: Harnessing the Power of FFT to Decode Waveform Files](https://medium.com/codex/harmonizing-signals-harnessing-the-power-of-fft-to-decode-waveform-files-668e39cb7511?source=rss-ee489d74c1af------2)
 - [Why Java Was Loved 20 Years Ago and Disliked Today](https://medium.com/codex/why-java-was-loved-20-years-ago-and-disliked-today-ef45f7a53740?source=rss-ee489d74c1af------2)
-- [This Algorithm is faster than Merge Sort](https://medium.com/codex/this-algorithm-is-faster-than-merge-sort-12564541a425?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 <!--[![Nishant's Github Stats](https://github-readme-stats.vercel.app/api?username=cybercoder-naj&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)][github]
