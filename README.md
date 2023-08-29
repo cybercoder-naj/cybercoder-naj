@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/cybercoder-naj/gitit/pull/6) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
-2. 🎉 Merged PR [#5](https://github.com/cybercoder-naj/gitit/pull/5) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
-3. 🎉 Merged PR [#4](https://github.com/cybercoder-naj/gitit/pull/4) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
+1. 🎉 Merged PR [#7](https://github.com/cybercoder-naj/gitit/pull/7) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
+2. 🎉 Merged PR [#6](https://github.com/cybercoder-naj/gitit/pull/6) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
+3. 🎉 Merged PR [#5](https://github.com/cybercoder-naj/gitit/pull/5) in [cybercoder-naj/gitit](https://github.com/cybercoder-naj/gitit)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
