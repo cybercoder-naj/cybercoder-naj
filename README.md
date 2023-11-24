@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/cybercoder-naj/Rooner/pull/3) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
-2. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/Rooner/pull/2) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
-3. 💪 Opened PR [#2](https://github.com/cybercoder-naj/Rooner/pull/2) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
+1. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/Rooner/pull/3) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
+2. 💪 Opened PR [#3](https://github.com/cybercoder-naj/Rooner/pull/3) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
+3. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/Rooner/pull/2) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
