@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/cybercoder-naj/Rooner/pull/4) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
-2. ❌ Reopened PR [#4](https://github.com/cybercoder-naj/Rooner/pull/4) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
-3. ❌ Closed PR [#4](https://github.com/cybercoder-naj/Rooner/pull/4) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
+1. ❗ Opened issue [#4608](https://github.com/vitest-dev/vitest/issues/4608) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+2. 🔒 Closed issue [#4607](https://github.com/vitest-dev/vitest/issues/4607) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+3. 🗣 Commented on [#4607](https://github.com/vitest-dev/vitest/issues/4607#issuecomment-1828910875) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
