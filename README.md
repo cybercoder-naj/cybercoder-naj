@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24615](https://github.com/nuxt/nuxt/issues/24615) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-2. 🗣 Commented on [#4608](https://github.com/vitest-dev/vitest/issues/4608#issuecomment-1835075995) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-3. 🎉 Merged PR [#5](https://github.com/cybercoder-naj/Rooner/pull/5) in [cybercoder-naj/Rooner](https://github.com/cybercoder-naj/Rooner)
+1. ❗ Opened issue [#7912](https://github.com/firebase/firebase-js-sdk/issues/7912) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+2. ❗ Opened issue [#24615](https://github.com/nuxt/nuxt/issues/24615) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+3. 🗣 Commented on [#4608](https://github.com/vitest-dev/vitest/issues/4608#issuecomment-1835075995) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
