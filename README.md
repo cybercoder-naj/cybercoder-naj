@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7912](https://github.com/firebase/firebase-js-sdk/issues/7912#issuecomment-1871513715) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-2. 🔒 Closed issue [#7912](https://github.com/firebase/firebase-js-sdk/issues/7912) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-3. ❗ Opened issue [#7912](https://github.com/firebase/firebase-js-sdk/issues/7912) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+1. ❗ Opened issue [#93](https://github.com/pimterry/notes/issues/93) in [pimterry/notes](https://github.com/pimterry/notes)
+2. ❗ Opened issue [#92](https://github.com/pimterry/notes/issues/92) in [pimterry/notes](https://github.com/pimterry/notes)
+3. 🗣 Commented on [#7912](https://github.com/firebase/firebase-js-sdk/issues/7912#issuecomment-1871513715) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
