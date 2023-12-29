@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/cybercoder-naj/cbuild/pull/1) in [cybercoder-naj/cbuild](https://github.com/cybercoder-naj/cbuild)
-2. ❗ Opened issue [#93](https://github.com/pimterry/notes/issues/93) in [pimterry/notes](https://github.com/pimterry/notes)
-3. ❗ Opened issue [#92](https://github.com/pimterry/notes/issues/92) in [pimterry/notes](https://github.com/pimterry/notes)
+1. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/cbuild/pull/1) in [cybercoder-naj/cbuild](https://github.com/cybercoder-naj/cbuild)
+2. 💪 Opened PR [#1](https://github.com/cybercoder-naj/cbuild/pull/1) in [cybercoder-naj/cbuild](https://github.com/cybercoder-naj/cbuild)
+3. ❗ Opened issue [#93](https://github.com/pimterry/notes/issues/93) in [pimterry/notes](https://github.com/pimterry/notes)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
