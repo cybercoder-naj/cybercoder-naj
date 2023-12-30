@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/cybercoder-naj/cbuild/pull/2) in [cybercoder-naj/cbuild](https://github.com/cybercoder-naj/cbuild)
-2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/cbuild/pull/1) in [cybercoder-naj/cbuild](https://github.com/cybercoder-naj/cbuild)
-3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/cbuild/pull/1) in [cybercoder-naj/cbuild](https://github.com/cybercoder-naj/cbuild)
+1. 🗣 Commented on [#10](https://github.com/pbzweihander/markdown-toc/issues/10#issuecomment-1872606365) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
+2. 🗣 Commented on [#9](https://github.com/pbzweihander/markdown-toc/issues/9#issuecomment-1872606137) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
+3. 🗣 Commented on [#8](https://github.com/pbzweihander/markdown-toc/issues/8#issuecomment-1872605970) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
