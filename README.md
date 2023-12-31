@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/pbzweihander/markdown-toc/issues/10#issuecomment-1872606365) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
-2. 🗣 Commented on [#9](https://github.com/pbzweihander/markdown-toc/issues/9#issuecomment-1872606137) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
-3. 🗣 Commented on [#8](https://github.com/pbzweihander/markdown-toc/issues/8#issuecomment-1872605970) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
+1. 🗣 Commented on [#12](https://github.com/pbzweihander/markdown-toc/pull/12#issuecomment-1872934904) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
+2. ❌ Closed PR [#12](https://github.com/pbzweihander/markdown-toc/pull/12) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
+3. 🗣 Commented on [#13](https://github.com/pbzweihander/markdown-toc/pull/13#issuecomment-1872934867) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
