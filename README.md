@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/pimterry/notes/issues/93#issuecomment-1875758880) in [pimterry/notes](https://github.com/pimterry/notes)
-2. 🗣 Commented on [#93](https://github.com/pimterry/notes/issues/93#issuecomment-1875664189) in [pimterry/notes](https://github.com/pimterry/notes)
-3. 🗣 Commented on [#93](https://github.com/pimterry/notes/issues/93#issuecomment-1875656533) in [pimterry/notes](https://github.com/pimterry/notes)
+1. 🗣 Commented on [#94](https://github.com/pimterry/notes/pull/94#issuecomment-1876126846) in [pimterry/notes](https://github.com/pimterry/notes)
+2. 💪 Opened PR [#94](https://github.com/pimterry/notes/pull/94) in [pimterry/notes](https://github.com/pimterry/notes)
+3. 🗣 Commented on [#93](https://github.com/pimterry/notes/issues/93#issuecomment-1875758880) in [pimterry/notes](https://github.com/pimterry/notes)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
