@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/cybercoder-naj/morfo/pull/3) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
-2. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/morfo/pull/2) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
-3. 💪 Opened PR [#2](https://github.com/cybercoder-naj/morfo/pull/2) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+1. 💪 Opened PR [#6](https://github.com/cybercoder-naj/morfo/pull/6) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+2. 🎉 Merged PR [#5](https://github.com/cybercoder-naj/morfo/pull/5) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+3. 💪 Opened PR [#5](https://github.com/cybercoder-naj/morfo/pull/5) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
