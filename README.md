@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/pbzweihander/markdown-toc/issues/16) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
-2. ❗ Opened issue [#15](https://github.com/pbzweihander/markdown-toc/issues/15) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
-3. 🗣 Commented on [#94](https://github.com/pimterry/notes/pull/94#issuecomment-1879091187) in [pimterry/notes](https://github.com/pimterry/notes)
+1. 🎉 Merged PR [#3](https://github.com/cybercoder-naj/morfo/pull/3) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+2. 🎉 Merged PR [#10](https://github.com/cybercoder-naj/morfo/pull/10) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+3. 💪 Opened PR [#10](https://github.com/cybercoder-naj/morfo/pull/10) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
