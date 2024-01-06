@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/pimterry/notes/pull/94#issuecomment-1879091187) in [pimterry/notes](https://github.com/pimterry/notes)
-2. 🗣 Commented on [#10](https://github.com/catppuccin/chrome/issues/10#issuecomment-1878925364) in [catppuccin/chrome](https://github.com/catppuccin/chrome)
-3. 🎉 Merged PR [#8](https://github.com/cybercoder-naj/morfo/pull/8) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+1. ❗ Opened issue [#16](https://github.com/pbzweihander/markdown-toc/issues/16) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
+2. ❗ Opened issue [#15](https://github.com/pbzweihander/markdown-toc/issues/15) in [pbzweihander/markdown-toc](https://github.com/pbzweihander/markdown-toc)
+3. 🗣 Commented on [#94](https://github.com/pimterry/notes/pull/94#issuecomment-1879091187) in [pimterry/notes](https://github.com/pimterry/notes)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
