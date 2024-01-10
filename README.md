@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/cybercoder-naj/morfo/pull/11) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
-2. 🗣 Commented on [#3166](https://github.com/typst/typst/issues/3166#issuecomment-1885057772) in [typst/typst](https://github.com/typst/typst)
-3. ❗ Opened issue [#3166](https://github.com/typst/typst/issues/3166) in [typst/typst](https://github.com/typst/typst)
+1. 💪 Opened PR [#12](https://github.com/cybercoder-naj/morfo/pull/12) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+2. 🎉 Merged PR [#11](https://github.com/cybercoder-naj/morfo/pull/11) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+3. 💪 Opened PR [#11](https://github.com/cybercoder-naj/morfo/pull/11) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
