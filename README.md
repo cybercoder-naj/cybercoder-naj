@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3166](https://github.com/typst/typst/issues/3166#issuecomment-1890440627) in [typst/typst](https://github.com/typst/typst)
-2. 💪 Opened PR [#12](https://github.com/cybercoder-naj/morfo/pull/12) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
-3. 🎉 Merged PR [#11](https://github.com/cybercoder-naj/morfo/pull/11) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+1. 🗣 Commented on [#7160](https://github.com/firebase/firebase-js-sdk/issues/7160#issuecomment-1927293593) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+2. 🗣 Commented on [#3166](https://github.com/typst/typst/issues/3166#issuecomment-1890440627) in [typst/typst](https://github.com/typst/typst)
+3. 💪 Opened PR [#12](https://github.com/cybercoder-naj/morfo/pull/12) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
