@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#49](https://github.com/BrandonKirbyson/VSCode-Animations/issues/49) in [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations)
-2. ❗ Opened issue [#32](https://github.com/j-mie6/gigaparsec/issues/32) in [j-mie6/gigaparsec](https://github.com/j-mie6/gigaparsec)
-3. 🗣 Commented on [#7160](https://github.com/firebase/firebase-js-sdk/issues/7160#issuecomment-1927293593) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+1. 🗣 Commented on [#49](https://github.com/BrandonKirbyson/VSCode-Animations/issues/49#issuecomment-1937071701) in [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations)
+2. ❗ Opened issue [#49](https://github.com/BrandonKirbyson/VSCode-Animations/issues/49) in [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations)
+3. ❗ Opened issue [#32](https://github.com/j-mie6/gigaparsec/issues/32) in [j-mie6/gigaparsec](https://github.com/j-mie6/gigaparsec)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
