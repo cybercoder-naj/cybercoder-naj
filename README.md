@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/cybercoder-naj/morfo/pull/12) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
-2. 🗣 Commented on [#49](https://github.com/BrandonKirbyson/VSCode-Animations/issues/49#issuecomment-1937071701) in [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations)
-3. ❗ Opened issue [#49](https://github.com/BrandonKirbyson/VSCode-Animations/issues/49) in [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations)
+1. 🗣 Commented on [#388](https://github.com/elysiajs/elysia/issues/388#issuecomment-1986594092) in [elysiajs/elysia](https://github.com/elysiajs/elysia)
+2. 🎉 Merged PR [#12](https://github.com/cybercoder-naj/morfo/pull/12) in [cybercoder-naj/morfo](https://github.com/cybercoder-naj/morfo)
+3. 🗣 Commented on [#49](https://github.com/BrandonKirbyson/VSCode-Animations/issues/49#issuecomment-1937071701) in [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
