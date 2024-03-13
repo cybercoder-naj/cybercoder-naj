@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/tristanisham/logysia/pull/14) in [tristanisham/logysia](https://github.com/tristanisham/logysia)
-2. ❗ Opened issue [#13](https://github.com/tristanisham/logysia/issues/13) in [tristanisham/logysia](https://github.com/tristanisham/logysia)
-3. 💪 Opened PR [#12](https://github.com/tristanisham/logysia/pull/12) in [tristanisham/logysia](https://github.com/tristanisham/logysia)
+1. 🗣 Commented on [#526](https://github.com/elysiajs/elysia/issues/526#issuecomment-1994712228) in [elysiajs/elysia](https://github.com/elysiajs/elysia)
+2. 💪 Opened PR [#14](https://github.com/tristanisham/logysia/pull/14) in [tristanisham/logysia](https://github.com/tristanisham/logysia)
+3. ❗ Opened issue [#13](https://github.com/tristanisham/logysia/issues/13) in [tristanisham/logysia](https://github.com/tristanisham/logysia)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
