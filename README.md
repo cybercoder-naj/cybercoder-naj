@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/cybercoder-naj/logestic/pull/1) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-2. ❌ Closed PR [#1](https://github.com/harshitasaraf/e-commerce-website/pull/1) in [harshitasaraf/e-commerce-website](https://github.com/harshitasaraf/e-commerce-website)
-3. ❗ Opened issue [#59](https://github.com/elysiajs/eden/issues/59) in [elysiajs/eden](https://github.com/elysiajs/eden)
+1. 💪 Opened PR [#2](https://github.com/cybercoder-naj/logestic/pull/2) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/logestic/pull/1) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/logestic/pull/1) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
