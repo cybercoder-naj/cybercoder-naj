@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/cybercoder-naj/logestic/pull/2) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/logestic/pull/1) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/logestic/pull/1) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+1. 🎉 Merged PR [#2](https://github.com/cybercoder-naj/logestic/pull/2) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+2. 🎉 Merged PR [#1](https://github.com/cybercoder-naj/cybercoder-nishant.dev/pull/1) in [cybercoder-naj/cybercoder-nishant.dev](https://github.com/cybercoder-naj/cybercoder-nishant.dev)
+3. 💪 Opened PR [#1](https://github.com/cybercoder-naj/cybercoder-nishant.dev/pull/1) in [cybercoder-naj/cybercoder-nishant.dev](https://github.com/cybercoder-naj/cybercoder-nishant.dev)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
