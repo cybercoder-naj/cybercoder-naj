@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/cybercoder-naj/logestic/releases/tag/v0.5.0) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-2. 🎉 Merged PR [#7](https://github.com/cybercoder-naj/logestic/pull/7) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-3. 💪 Opened PR [#7](https://github.com/cybercoder-naj/logestic/pull/7) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+1. 🚀 Published release [v0.5.1](https://github.com/cybercoder-naj/logestic/releases/tag/v0.5.1) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+2. 🚀 Published release [v0.5.0](https://github.com/cybercoder-naj/logestic/releases/tag/v0.5.0) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+3. 🎉 Merged PR [#7](https://github.com/cybercoder-naj/logestic/pull/7) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
