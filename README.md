@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/gaurishhs/elysia-ip/issues/11#issuecomment-2018614660) in [gaurishhs/elysia-ip](https://github.com/gaurishhs/elysia-ip)
-2. ❗ Opened issue [#11](https://github.com/gaurishhs/elysia-ip/issues/11) in [gaurishhs/elysia-ip](https://github.com/gaurishhs/elysia-ip)
-3. 🗣 Commented on [#10](https://github.com/cybercoder-naj/logestic/issues/10#issuecomment-2018333597) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+1. 🗣 Commented on [#11](https://github.com/cybercoder-naj/logestic/issues/11#issuecomment-2019296087) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+2. ❗ Opened issue [#570](https://github.com/elysiajs/elysia/issues/570) in [elysiajs/elysia](https://github.com/elysiajs/elysia)
+3. 🗣 Commented on [#11](https://github.com/gaurishhs/elysia-ip/issues/11#issuecomment-2018614660) in [gaurishhs/elysia-ip](https://github.com/gaurishhs/elysia-ip)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
