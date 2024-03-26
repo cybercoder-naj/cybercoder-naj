@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/cybercoder-naj/logestic/pull/12) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-2. 🗣 Commented on [#11](https://github.com/cybercoder-naj/logestic/issues/11#issuecomment-2019296087) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-3. ❗ Opened issue [#570](https://github.com/elysiajs/elysia/issues/570) in [elysiajs/elysia](https://github.com/elysiajs/elysia)
+1. 🗣 Commented on [#11](https://github.com/gaurishhs/elysia-ip/issues/11#issuecomment-2019431434) in [gaurishhs/elysia-ip](https://github.com/gaurishhs/elysia-ip)
+2. 🗣 Commented on [#10](https://github.com/cybercoder-naj/logestic/issues/10#issuecomment-2019418739) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+3. 🔒 Closed issue [#10](https://github.com/cybercoder-naj/logestic/issues/10) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
