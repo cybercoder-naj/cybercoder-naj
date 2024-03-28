@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2322](https://github.com/unjs/nitro/issues/2322#issuecomment-2024471514) in [unjs/nitro](https://github.com/unjs/nitro)
-2. 🔒 Closed issue [#2322](https://github.com/unjs/nitro/issues/2322) in [unjs/nitro](https://github.com/unjs/nitro)
-3. 🗣 Commented on [#2322](https://github.com/unjs/nitro/issues/2322#issuecomment-2024469555) in [unjs/nitro](https://github.com/unjs/nitro)
+1. 🔒 Closed issue [#569](https://github.com/elysiajs/elysia/issues/569) in [elysiajs/elysia](https://github.com/elysiajs/elysia)
+2. 🗣 Commented on [#2322](https://github.com/unjs/nitro/issues/2322#issuecomment-2024471514) in [unjs/nitro](https://github.com/unjs/nitro)
+3. 🔒 Closed issue [#2322](https://github.com/unjs/nitro/issues/2322) in [unjs/nitro](https://github.com/unjs/nitro)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
