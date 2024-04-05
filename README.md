@@ -36,9 +36,9 @@
 <!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/cybercoder-naj/logestic/releases/tag/v1.1.0) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-2. 🔒 Closed issue [#13](https://github.com/cybercoder-naj/logestic/issues/13) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-3. 🎉 Merged PR [#19](https://github.com/cybercoder-naj/logestic/pull/19) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+1. ❗ Opened issue [#90](https://github.com/jonaburg/picom/issues/90) in [jonaburg/picom](https://github.com/jonaburg/picom)
+2. 🚀 Published release [v1.1.0](https://github.com/cybercoder-naj/logestic/releases/tag/v1.1.0) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
+3. 🔒 Closed issue [#13](https://github.com/cybercoder-naj/logestic/issues/13) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
 <!--END_SECTION:activity-->
 
 <!-- --- -->
