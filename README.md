@@ -2,9 +2,9 @@
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
-- 😎 I've developed many Android applications, some of which are on the Play Store.
-- 🎓 I'm an [Oracle Certified Java Professional][badge].
-- 👨‍🏫 I teach CS and Math on [Schoolhouse.world][shw].
+- ‍🧑‍🎓 I am a university student and a Full-Stack developer.
+- 😎 I've developed many Android applications as well, some of which are on the Play Store.
+- 🏅 I'm an [Oracle Certified Java Professional][badge].
 - 🎶 I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
 
 <a href="https://www.buymeacoffee.com/cybercoder.naj" target="_blank"><img src="./bmc-button.svg" width="128"></a>
@@ -26,26 +26,9 @@
 | Currently Learning | ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) |
 | I also Know | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white) ![MongoDb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
-<!-- --- -->
-
-
 ---
 
-### ⚡ Recent Activity
-
-<!-- [![Update README](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/update-readme.yml) -->
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#90](https://github.com/jonaburg/picom/issues/90) in [jonaburg/picom](https://github.com/jonaburg/picom)
-2. 🚀 Published release [v1.1.0](https://github.com/cybercoder-naj/logestic/releases/tag/v1.1.0) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-3. 🔒 Closed issue [#13](https://github.com/cybercoder-naj/logestic/issues/13) in [cybercoder-naj/logestic](https://github.com/cybercoder-naj/logestic)
-<!--END_SECTION:activity-->
-
-<!-- --- -->
-
 ### 📝 Medium Articles
-
-<!-- [![Medium Articles](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml/badge.svg)](https://github.com/cybercoder-naj/cybercoder-naj/actions/workflows/medium-workflow.yml) -->
 
 <!-- MEDIUM:START -->
 - [First Look At ElysiaJS](https://medium.com/codex/first-look-at-elysiajs-84ecf1bc8b38?source=rss-ee489d74c1af------2)
@@ -54,9 +37,6 @@
 - [C Macros: Pseudo-generic methods and structs](https://medium.com/codex/c-macros-pseudo-generic-methods-and-structs-b4236e6e50b8?source=rss-ee489d74c1af------2)
 - [Is the Red-Green-Refactor Cycle of Test-Driven Development Good?](https://medium.com/news-uk-technology/is-the-red-green-refactor-cycle-of-test-driven-development-good-9e2b1b52d721?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
-
-<!--[![Nishant's Github Stats](https://github-readme-stats.vercel.app/api?username=cybercoder-naj&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)][github]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact)][github]-->
 
 [github]: https://github.com/cybercoder-naj
 [website]: https://cybercoder-naj.github.io
