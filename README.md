@@ -1,4 +1,4 @@
-# Hello, World! My name is Nishant - aka [cybercoder-naj][github] 👋
+# Hello, World! My name is Nishant - aka [cybercoder-naj][website] 👋
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
@@ -59,6 +59,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercoder-naj&show_icons=true&hide_border=true&theme=midnight-purple&layout=compact)][github]-->
 
 [github]: https://github.com/cybercoder-naj
+[website]: https://cybercoder-naj.github.io
 [badge]: https://www.youracclaim.com/badges/79bbfbe8-cdf4-4d8d-b1ba-57efaa5c331d/linked_in_profile
 [youtube]: https://www.youtube.com/channel/UCPoU-LKr3XG0IujgCFFt4_A
 [linkedin]: https://www.linkedin.com/in/nishant-aanjaney-jalan-3b7659191/
