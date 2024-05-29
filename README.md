@@ -31,11 +31,11 @@
 ### 📝 Medium Articles
 
 <!-- MEDIUM:START -->
+- [Why is Encryption and Signing So Important?](https://medium.com/codex/why-is-encryption-and-signing-so-important-8e4ef317a734?source=rss-ee489d74c1af------2)
 - [First Look At ElysiaJS](https://medium.com/codex/first-look-at-elysiajs-84ecf1bc8b38?source=rss-ee489d74c1af------2)
 - [A Comprehensive Guide to Monads](https://medium.com/codex/a-comprehensive-guide-to-monads-211eb6c71066?source=rss-ee489d74c1af------2)
 - [Don’t Fear REGular EXpressions](https://medium.com/codex/dont-fear-regular-expressions-ff2ff202a1e5?source=rss-ee489d74c1af------2)
 - [C Macros: Pseudo-generic methods and structs](https://medium.com/codex/c-macros-pseudo-generic-methods-and-structs-b4236e6e50b8?source=rss-ee489d74c1af------2)
-- [Is the Red-Green-Refactor Cycle of Test-Driven Development Good?](https://medium.com/news-uk-technology/is-the-red-green-refactor-cycle-of-test-driven-development-good-9e2b1b52d721?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 [github]: https://github.com/cybercoder-naj
