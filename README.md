@@ -2,8 +2,8 @@
 
 ## 👌 I'm a Student, Musician, Developer, and Teacher
 
-- ‍🧑‍🎓 I am a university student and a Full-Stack developer.
-- 😎 I've developed many Android applications as well, some of which are on the Play Store.
+- ‍🧑‍🎓 I am a university student and a Mobile + Full-Stack developer.
+- 😎 I've developed many Android applications as well, some of which *were* on the Play Store.
 - 🏅 I'm an [Oracle Certified Java Professional][badge].
 - 🎶 I love rock music: Queen and Bon Jovi Fan; and I play the synthesizer.
 
