@@ -31,11 +31,11 @@
 ### 📝 Medium Articles
 
 <!-- MEDIUM:START -->
+- [Git’s Diff3 Conflict Style And How To Use It](https://medium.com/codex/gits-diff3-conflict-style-and-how-to-use-it-91132a040837?source=rss-ee489d74c1af------2)
 - [Git Rebase like a Professional](https://medium.com/codex/git-rebase-like-a-professional-1d75929ce69d?source=rss-ee489d74c1af------2)
 - [How to publish your library to Maven](https://medium.com/codex/how-to-publish-your-library-to-maven-2f61029c16ab?source=rss-ee489d74c1af------2)
 - [Dependency Injection in Compose Multiplatform](https://proandroiddev.com/dependency-injection-in-compose-multiplatform-a2f2894ea737?source=rss-ee489d74c1af------2)
 - [How to deal with GPG Keys](https://medium.com/codex/how-to-deal-with-gpg-keys-df7e782c098a?source=rss-ee489d74c1af------2)
-- [Why is Encryption and Signing So Important?](https://medium.com/codex/why-is-encryption-and-signing-so-important-8e4ef317a734?source=rss-ee489d74c1af------2)
 <!-- MEDIUM:END -->
 
 [github]: https://github.com/cybercoder-naj
